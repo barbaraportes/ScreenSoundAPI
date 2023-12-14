@@ -5,7 +5,7 @@
  - Lista músicas de uma API
  - Exibe detalhes das músicas
  - Ordena artistas
- - Filtra músicas por gênero musical
+ - Filtra artistas por gênero musical
  - Filtra as músicas de um artista
  - Filtra as músicas por ano
  - Cria uma lista de músicas preferidas
