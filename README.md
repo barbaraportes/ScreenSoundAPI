@@ -2,9 +2,12 @@
  Projeto de conclusão do curso C#: consumindo API, gravando arquivos e utilizando o LINQ da empresa Alura.
 
  Funcionalidades:
- - Lista músicas por gênero musical
+ - Lista músicas de uma API
+ - Exibe detalhes das músicas
  - Ordena artistas
- - Filtra músicas
+ - Filtra músicas por gênero musical
+ - Filtra as músicas de um artista
+ - Filtra as músicas por ano
  - Cria uma lista de músicas preferidas
  - Cria arquivos JSON
 
