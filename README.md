@@ -10,7 +10,7 @@
 
   Criei e manipulei um modelo de músicas, utilizei requisições, tratamento de exceções, desserialização de JSON e aprendi a exibir os dados no console de forma organizada.
 
-  Além diss, aprendi a pegar uma fonte de dados(nesse caso, uma API e HttpClient) e manipular as coleções por meio do LINQ.
+  Além disso, aprendi a pegar uma fonte de dados(nesse caso, uma API e HttpClient) e manipular as coleções por meio do LINQ.
 
 
   
